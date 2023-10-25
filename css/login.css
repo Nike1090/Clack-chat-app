@@ -1,0 +1,82 @@
+@import 'constants.css';
+
+.card {
+    margin: 2.5% auto;
+    width: 100%; 
+    max-width: 400px; 
+    padding: 20px;
+    border: none;
+    text-align: center; 
+    box-sizing: border-box; 
+    background-color: var(--secondary-dark-theme-color);
+    color: var(--primary-text-color);
+}
+
+.intro > img {
+margin-bottom: 5px;
+}
+
+.account {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.contact {
+    font-size: 13px;
+}
+
+.form-control {
+    text-indent: 14px;
+    width: 100%; 
+}
+
+.inputbox {
+    margin-bottom: 20px;  
+    position: relative;
+}
+
+.form-check-label {
+    font-size: 13px;
+}
+
+.form-check-input {
+    width: 14px;
+    height: 15px;
+    margin-top: 5px;
+}
+
+.forgot {
+    font-size: 14px;
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+
+.mail {
+    color: #4a148c;
+    text-decoration: none;
+}
+
+.form-check {
+    cursor: pointer;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--primary-button-color);
+    border-color: var(--primary-button-color);
+    width: 100%; 
+}
+
+
+@media (max-width: 968px) {
+    .card {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        max-width: 400px;
+        margin: 5% auto;
+    }
+}
