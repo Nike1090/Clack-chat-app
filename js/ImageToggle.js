@@ -1,10 +1,7 @@
-
-
 function toggleImage() {
     const iconImage = document.getElementById('iconImage');
     const bodyElement = document.querySelector('body');
     const formCard = document.querySelector('.card');
-
 
     if (iconImage.src.includes('sunny.png')) {
         iconImage.src = iconImage.src.replace('sunny.png', 'moon.png'); // Replace the image source
