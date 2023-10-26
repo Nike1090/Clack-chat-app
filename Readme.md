@@ -1,6 +1,6 @@
-# Project Name
+# Clack - Online Chat Application
 
-Brief project description goes here.
+Elevate your communication with Clack, a sleek and secure online chat application tailored for seamless collaboration and real-time engagement. Whether for personal chats, team discussions, or external integrations, Clack brings conversations to life, ensuring that connectivity and productivity are always at your fingertips.
 
 ## Table of Contents
 
@@ -9,10 +9,17 @@ Brief project description goes here.
 - [Technologies Used](#technologies-used)
 - [Bootstrap Components Used](#bootstrap-components-used)
 - [How to Run](#how-to-run)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
-(Provide a brief introduction about the project, its purpose, and any relevant information that helps users understand what the project is about.)
+
+**Clack** is a modern and secure online chat application designed to enhance communication and collaboration in today’s digital era. With Clack, users can enjoy seamless real-time chats, easy file sharing, and efficient team collaboration all in one intuitive platform.
+
+Whether it’s one-on-one conversations, lively group discussions, or focused channels for specific topics, Clack ensures that staying connected is easier than ever. Prioritizing user security, all communications on Clack are protected with top-notch encryption, ensuring your data’s safety and confidentiality.
+
+Beyond messaging, Clack integrates smoothly with various external tools and services, establishing itself as a central hub for all your communication needs. Experience the future of online messaging with Clack, where building connections, enhancing teamwork, and boosting productivity come naturally.
+
 
 ## Features
 
@@ -158,6 +165,13 @@ Brief project description goes here.
 1. **Clone the Repository**: `https://github.com/Nike1090/Web-Design---final`
 2. **Navigate to the Project Directory**: `cd path/to/folder`
 3. **Open `index.html` in a Browser**: This can be done by double-clicking on the file or using a live server extension in your code editor.
+
+## Contribution
+- Mamatha Shree: Worked on front-end development, implementing interactive elements using JavaScript 21%
+- Aashay Pawar: Dedicated efforts to backend development, documenting and reporting 16%
+- Anusree Myneni: Worked on front-end development, focusing on creating responsive design layouts 21%
+- Nikil Kumar Bavandla: front-end development, focusing on creating responsive design layouts and implementing interactive elements using JavaScript 21%
+- Sri Krishna Karumanchi: crafting a user-friendly interface and providing engaging visual elements to enhance user experience 21%
 
 ## License
 https://github.com/Nike1090/Web-Design---final/blob/main/LICENSE
