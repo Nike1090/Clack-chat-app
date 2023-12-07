@@ -112,5 +112,5 @@ Start the Client
 ![UserProfile](https://github.com/Nike1090/Web-Design---final/blob/main/screenshots/profile%20detail.png)
 
 ## Demo
-![Clack-app](https://clack-app.onrender.com)
+[Clack-app](https://clack-app.onrender.com)
   
